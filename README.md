@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm EgorSys</h1>
+<h1 align="center">Hi 👋, I'm Egor Sysoev</h1>
 <h3 align="center">and I like computational linguistics</h3>
 
 - 🔭 I’m currently working on **a program that can help you efficiently learn languages**
